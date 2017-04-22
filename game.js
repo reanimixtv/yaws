@@ -7,7 +7,7 @@ BasicGame.Game.prototype = {
 
   create: function () {
 
-    this.sea = this.add.tileSprite(0, 0, 1024, 768, 'sand');
+    this.sea = this.add.tileSprite(0, 0, 1024, 768, 'sea');
 
   },
 
