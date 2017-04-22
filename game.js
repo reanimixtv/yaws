@@ -12,7 +12,7 @@ BasicGame.Game.prototype = {
   },
 
   update: function () {
-    this.sea.tilePosition.y += 0.7;
+    //  Honestly, just about anything could go here. It's YOUR game after all. Eat your heart out!
   },
 
   quitGame: function (pointer) {
